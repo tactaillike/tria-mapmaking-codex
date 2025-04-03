@@ -7,8 +7,6 @@ url: https://tactaillike.github.io/tria-mapmaking-codex
 aux_links:
   Repository: https://github.com/tactaillike/tria-mapmaking-codex 
 
-color_scheme: dark
-
 nav_enabled: true
 
 heading_anchors: true
