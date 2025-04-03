@@ -14,7 +14,7 @@ At the base level, the map kit structure is fairly simple, with most of the fold
 ## Detail
 The Detail folder is for, well, map detail. Basically any non-essential things like small props and stuff that have nothing to do with gameplay can go under here at the map maker's discretion. Everything inside the Detail folder will not be loaded for players in Medium detail mode or lower. Low detail mode (LDM) additionally disables materials. A player's detail mode setting can be read as shown:
 
-```luau
+```lua
 local SettingsFeature = MapLib:GetFeature("Settings")
 
 local detailMode = SettingsFeature:GetSetting("Level of Detail")
