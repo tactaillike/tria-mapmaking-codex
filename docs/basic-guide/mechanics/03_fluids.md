@@ -4,6 +4,7 @@ layout: default
 parent: Essential Mechanics
 nav_order: 3
 ---
+# Fluids
 It wouldn’t be a Flood Escape inspired game without liquids, and in most maps, you’ll be escaping from these. To create a liquid, create a new part inside the `Special > Fluid` folder, name it `_Liquid#` (where # is a unique number assigned to the liquid) make it CanCollide false, and assign a state to the liquid by adding a string attribute named `‘Type’`. 
 
 ## Default Fluid States

@@ -4,7 +4,7 @@ layout: default
 parent: Essential Mechanics
 nav_order: 2
 ---
-## Buttons
+# Buttons
 Buttons are used extensively in most TRIA.os maps. Progression through a level is usually locked behind pressing buttons, and players can only exit the map once all buttons are pressed. 
 
 ### Button Components
