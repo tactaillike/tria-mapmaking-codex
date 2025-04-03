@@ -2,7 +2,7 @@
 title: Skills
 layout: default
 parent: Map Settings
-nav_order: 5
+nav_order: 7
 ---
 # Skills
 ![](../../../assets/images/explorer_skillsettings.png)

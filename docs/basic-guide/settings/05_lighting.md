@@ -2,7 +2,7 @@
 title: Lighting
 layout: default
 parent: Map Settings
-nav_order: 3
+nav_order: 5
 ---
 # Lighting
 ![](../../../assets/images/explorer_lighting.png)

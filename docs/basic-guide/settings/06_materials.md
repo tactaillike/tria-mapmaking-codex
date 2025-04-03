@@ -2,7 +2,7 @@
 title: Materials
 layout: default
 parent: Map Settings
-nav_order: 4
+nav_order: 6
 ---
 # Materials
 ![](../../../assets/images/explorer_materials.png)

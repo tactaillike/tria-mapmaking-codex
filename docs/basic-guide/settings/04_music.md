@@ -2,7 +2,7 @@
 title: Music
 layout: default
 parent: Map Settings
-nav_order: 2
+nav_order: 4
 ---
 # Music
 ![](../../../assets/images/explorer_musicsettings.png)
