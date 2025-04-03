@@ -6,7 +6,7 @@ nav_order: 1
 
 # The TRIA Map Making Codex
 
-A community resource containing all the information needed to create a map for TRIA.os, a fast-paced parkour obby game on the Roblox platform.
+A community resource created by *tac_taillike* containing all the information needed to create a map for TRIA.os, a fast-paced parkour obby game on the Roblox platform.
 
 It provides an overview of the official TRIA.os map kit and its contents, along with the basic steps for whitelisting and publishing the map to TRIA.os via the in-game Map Manager.
 
