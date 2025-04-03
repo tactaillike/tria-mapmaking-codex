@@ -4,6 +4,8 @@ layout: default
 parent: Interactables
 nav_order: 3
 ---
+![](../../../../assets/images/kit_boosts.png)
+
 # Boosts
 Speedboosts, jumpboosts, and Gravity are non-collideable parts that change the player's walkspeed (20 by default), jump power (50 by default), and gravity (280 by default) respectively. Despite being called boosts, they can either raise or lower these values. They contain the following attributes:
 

@@ -4,6 +4,8 @@ layout: default
 parent: Interactables
 nav_order: 1
 ---
+![](../../../../assets/images/kit_wallskills.png)
+
 # Walljumps
 Walljumps are parts you can latch onto and jump off of. To create a walljump from scratch, assign any part a `_action` string attribute and set it to `WallJump`, though it's a good idea to take one from the kit or insert using the TRIA plugin, since those come with the default walljump texture placed on the part's front face. 
 

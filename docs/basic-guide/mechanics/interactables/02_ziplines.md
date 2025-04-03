@@ -4,6 +4,8 @@ layout: default
 parent: Interactables
 nav_order: 2
 ---
+![](../../../../assets/images/kit_ziplines.png)
+
 # Ziplines
 > Ziplines are found under `Special > Ziplines` rather than `Special > Interactables`.
 
