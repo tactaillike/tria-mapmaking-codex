@@ -4,7 +4,7 @@ layout: default
 parent: Getting Started
 nav_order: 2
 ---
-
+# Map Kit Structure
 ![](../../assets/images/explorer_kit.png)
 
 Here’s the map kit model as it’s shown inside the Explorer window. When TRIA.OS loads your map (which for now is just a map kit), it is loading this model into the game.
