@@ -21,3 +21,4 @@ It provides an overview of the official TRIA.os map kit and its contents, along 
   - If you are unfamiliar with using Roblox Studio, start here!
 - [TRIA Mapmaking Companion](https://www.roblox.com/library/13782566472/TRIA-Plugin-Suite)
   - A Roblox Studio plugin containing many useful tools for map makers. However, it is not necessary for following any of the material in the Compendium.
+- [TRIA Discord server](https://discord.gg/tria)

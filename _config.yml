@@ -5,8 +5,20 @@ theme: just-the-docs
 url: https://tactaillike.github.io/tria-mapmaking-codex
 
 aux_links:
-  Repository: https://github.com/tactaillike/tria-mapmaking-codex 
+  GitHub: https://github.com/tactaillike/tria-mapmaking-codex 
 
 nav_enabled: true
+
+nav_external_links:
+  - title: MapLib Docs
+    url: https://tria-studio.github.io/Tria-Escape-MapLib/api/MapLib/
+  - title: Map Kit
+    url: https://create.roblox.com/store/asset/93671903447129/TRIAos-Map-Making-Kit
+  - title: Roblox Studio Docs
+    url: https://create.roblox.com/docs/studio
+  - title: Get the Plugin
+    url: https://www.roblox.com/library/13782566472/TRIA-Plugin-Suite
+  - title: Join the Discord!
+    url: https://discord.gg/tria
 
 heading_anchors: true
