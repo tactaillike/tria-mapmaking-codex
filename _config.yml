@@ -5,6 +5,6 @@ theme: just-the-docs
 url: https://tactaillike.github.io/tria-mapmaking-codex
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://github.com/tactaillike/tria-mapmaking-codex 
 
 color_scheme: dark
