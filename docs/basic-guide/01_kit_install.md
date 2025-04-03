@@ -1,5 +1,6 @@
 ---
 title: Getting the Map Kit
+layout: default
 parent: Getting Started
 nav_order: 1
 ---
