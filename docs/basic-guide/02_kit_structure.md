@@ -5,6 +5,8 @@ parent: Getting Started
 nav_order: 2
 ---
 
+![](../../assets/images/explorer_kit.png)
+
 Here’s the map kit model as it’s shown inside the Explorer window. When TRIA.OS loads your map (which for now is just a map kit), it is loading this model into the game.
 
 At the base level, the map kit structure is fairly simple, with most of the folders being self-explanatory except for the `Special` folder. The kit also contains a few different scripts by default which will run inside TRIA.os once the map is loaded, the most important one being `MapScript`.
@@ -24,6 +26,7 @@ local detailMode = SettingsFeature:GetSetting("Level of Detail")
 The bulk of the geometry in your map should go here. If It's too important to go in the Detail folder, but not special enough to go in the Special folder, this is where you should probably put it.
 
 ## Special
+![](../../assets/images/explorer_special.png)
 
 All the interactive parts of your map get consolidated under this folder, which allows for faster map loading times (hence the official term `Optimized Structure`). The `Special` folder is meant to contain all the fun mechanics you see in the Kit, including but not limited to: 
 - Spawn
@@ -49,5 +52,6 @@ This is an alternative to 'LocalMapScript' that allows client-sided code to be r
 ***
 
 ## Settings
+![](../../assets/images/explorer_settings.png)
 
 We can see that the Settings folder, which contains many different sub-folders, is also directly under the map model. We’ll go over the different settings later, but just know for now that this is where you’ll do stuff like give your map a name, a thumbnail, background music, etc. As mentioned earlier, many player settings can be read by map scripts using `MapLib:GetFeature("Settings")`.
